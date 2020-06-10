@@ -14,6 +14,9 @@ public class Main {
 
         do {
 
+
+            System.out.println("Mahdi");
+
             getData();
             Employee emp1 = new Employee(lastName, firstName);
             emp1.setSalary(salary);
